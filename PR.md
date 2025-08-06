@@ -77,8 +77,6 @@
 
 - On the next page, click on "Merge pull request" and then confirm the merge.
 
-  ![merge-pull-request](https://firebasestorage.googleapis.com/v0/b/techeazy-consulting-blog.appspot.com/o/Blog%20Images%2Fmerge-pull-request.png?alt=media&token=b5c09fb9-08c1-48b5-9e7c-dfa51e606487)
-
   ![merged-pull-request](https://firebasestorage.googleapis.com/v0/b/techeazy-consulting-blog.appspot.com/o/Blog%20Images%2Fmerged-pull-request.png?alt=media&token=6338ada2-91f1-40f1-81d1-b1bb4e954ade)
 
 - You can see that you have successfully merged the desired branch into the master branch. An email notification is also sent to the selected reviewer (collaborator).
